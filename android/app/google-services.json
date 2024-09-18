@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828866097395",
+    "project_id": "pushnotification-72230",
+    "storage_bucket": "pushnotification-72230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828866097395:android:5d330a97c9415e486b4786",
+        "android_client_info": {
+          "package_name": "com.example.motificationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeutS7Tm_bSMo2-DTbXeCZriz8T66HbGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
